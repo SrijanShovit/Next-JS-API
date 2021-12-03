@@ -24,4 +24,6 @@ export default function handler(req, res) {
         //send response
         res.status(201).json(newComment)
     }
+
+    
 }
